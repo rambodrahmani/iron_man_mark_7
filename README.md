@@ -1,2 +1,2 @@
-# iron_man_mark_7
-Iron Man Mark 7 Blender and STL files.
+# Iron Man Mark VII
+Iron Man Mark VII Blender and STL files.
