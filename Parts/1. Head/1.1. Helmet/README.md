@@ -1,4 +1,4 @@
-# 1.1 Helmet
+# 1.1. Helmet
 
 Iron Man Mark VII Armor Helmet.
 

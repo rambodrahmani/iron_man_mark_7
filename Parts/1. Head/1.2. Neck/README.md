@@ -1,4 +1,4 @@
-# 1.2 Neck
+# 1.2. Neck
 
 Iron Man Mark VII Armor Neck.
 
